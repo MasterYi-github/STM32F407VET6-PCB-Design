@@ -42,5 +42,5 @@
 ![PCB 顶层截图](assets/PCB_PCB1_2026-06-09.png)
 
 ### 3D 预览效果
-![PCB 3D 预览](3D_PCB1_2026-06-09.png)
-![PCB 3D 预览](3D_PCB2_2026-06-09.png)
+![PCB 3D 预览](assets/3D_PCB1_2026-06-09.png)
+![PCB 3D 预览](assets/3D_PCB2_2026-06-09.png)
